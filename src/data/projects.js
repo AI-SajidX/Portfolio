@@ -1,0 +1,88 @@
+export const projects = [
+  {
+    id: "sajidx-ide",
+    number: "01",
+    title: "SajidX IDE",
+    category: "Full-Stack Developer Tool",
+    description:
+      "A modern web-based code editor and compiler interface designed to provide a clean coding experience.",
+    highlights: [
+      "Browser-based C & C++ editor powered by Monaco Editor",
+      "Custom input & live execution output with runtime metrics",
+      "Express backend integrated with Judge0 CE compiler engine",
+    ],
+    technologies: [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "JavaScript",
+      "Monaco Editor",
+      "Node.js",
+      "Express.js",
+    ],
+    repoUrl: "https://github.com/AI-SajidX/SajidX-IDE",
+    liveUrl: "https://sajidx-ide.vercel.app/",
+    image: "/images/projects/sajidx-ide.jpg",
+    featured: true,
+  },
+  {
+    id: "book-vibe",
+    number: "02",
+    title: "Book Vibe",
+    category: "Single-Page Web Application",
+    description:
+      "A book discovery and management web application where users can explore books and manage their reading lists.",
+    highlights: [
+      "Seamless client-side routing with React Router",
+      "Global reading list & wishlist management via Context API",
+      "Interactive notifications and responsive card layouts",
+    ],
+    technologies: [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "React Router",
+      "DaisyUI",
+    ],
+    repoUrl: "https://github.com/AI-SajidX/Book-Vibe",
+    liveUrl: "https://book-vibe-sajid.netlify.app/",
+    image: "/images/projects/book-vibe.jpg",
+    featured: true,
+  },
+  {
+    id: "english-janala",
+    number: "03",
+    title: "English Janala",
+    category: "Interactive Learning Platform",
+    description:
+      "An interactive English vocabulary learning platform featuring vocabulary cards, lessons, search, and pronunciation functionality.",
+    highlights: [
+      "Lesson-based dynamic vocabulary fetching via REST API",
+      "Instant Text-to-Speech word pronunciation support",
+      "Clean search filtering, loading states, and FAQ accordion",
+    ],
+    technologies: ["HTML", "Tailwind CSS", "JavaScript", "DaisyUI", "API"],
+    repoUrl: "https://github.com/AI-SajidX/English-Janala",
+    liveUrl: "https://english-janala-by-sajid.netlify.app/",
+    image: "/images/projects/english-janala.jpg",
+    featured: true,
+  },
+  {
+    id: "fitness",
+    number: "04",
+    title: "Fitness",
+    category: "Responsive Web Interface",
+    description:
+      "A modern fitness website with a clean user interface and responsive design.",
+    highlights: [
+      "Dark-themed athletic landing page with crisp visual hierarchy",
+      "Habit builder cards, workout showcase, and trainer grid",
+      "Crafted from scratch with pure responsive CSS3 layouts",
+    ],
+    technologies: ["HTML5", "CSS3", "Font Awesome", "Google Fonts"],
+    repoUrl: "https://github.com/AI-SajidX/Fitness",
+    liveUrl: "https://fitness-by-sajid.netlify.app/",
+    image: "/images/projects/fitness.jpg",
+    featured: false,
+  },
+];

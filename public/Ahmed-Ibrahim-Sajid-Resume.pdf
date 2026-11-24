@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4167 >>
+stream
+BT /F2 18 Tf 0.05 0.09 0.18 rg 1 0 0 1 52 780 Tm (AHMED IBRAHIM SAJID \(SajidX\)) Tj ET
+BT /F1 11 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 761 Tm (CSE Undergraduate | Aspiring Full-Stack Developer) Tj ET
+BT /F1 9.5 Tf 0.35 0.42 0.52 rg 1 0 0 1 52 744 Tm (GitHub: github.com/AI-SajidX   |   20+ Projects Built   |   350+ Problems Solved) Tj ET
+0.20 0.39 1.00 RG 1.5 w 52 732 m 543 732 l S
+BT /F2 11 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 710 Tm (PROFILE) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 694 Tm (Computer Science & Engineering undergraduate at International Islamic University Chittagong \(IIUC\).) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 680 Tm (Passionate about frontend development, full-stack engineering, and problem-solving. Focused on creating) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 666 Tm (clean interfaces, building functional web applications, and exploring AI/ML and cybersecurity.) Tj ET
+0.85 0.88 0.94 RG 0.75 w 52 650 m 543 650 l S
+BT /F2 11 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 632 Tm (EDUCATION) Tj ET
+BT /F2 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 616 Tm (International Islamic University Chittagong \(IIUC\)  -  Chittagong, Bangladesh) Tj ET
+BT /F1 9.5 Tf 0.30 0.36 0.46 rg 1 0 0 1 52 602 Tm (Bachelor of Science in Computer Science & Engineering  |  Currently Studying) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 585 Tm (Cambrian College, Chittagong  -  Higher Secondary Certificate \(HSC\)  |  2023) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 570 Tm (Bangladesh Military Academy High School  -  Secondary School Certificate \(SSC\)  |  2021) Tj ET
+0.85 0.88 0.94 RG 0.75 w 52 552 m 543 552 l S
+BT /F2 11 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 534 Tm (TECHNICAL SKILLS) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 518 Tm (Frontend:  HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, DaisyUI) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 503 Tm (Backend:  Node.js, Express.js, MongoDB) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 488 Tm (Programming & CS:  C, C++, Java, Python, Data Structures & Algorithms) Tj ET
+BT /F1 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 473 Tm (Tools & Platforms:  Git, GitHub, VS Code, Figma, Netlify, Vercel) Tj ET
+0.85 0.88 0.94 RG 0.75 w 52 455 m 543 455 l S
+BT /F2 11 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 437 Tm (FEATURED PROJECTS) Tj ET
+BT /F2 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 419 Tm (01. SajidX IDE  |  Next.js, React, Tailwind CSS, JavaScript, Monaco Editor, Node.js, Express.js) Tj ET
+BT /F1 9.5 Tf 0.30 0.36 0.46 rg 1 0 0 1 52 405 Tm (Web-based C/C++ code editor and online compiler interface powered by Monaco Editor and Judge0 CE.) Tj ET
+BT /F1 9 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 392 Tm (Repo: github.com/AI-SajidX/SajidX-IDE   |   Live: sajidx-ide.vercel.app) Tj ET
+BT /F2 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 370 Tm (02. Book Vibe  |  React, JavaScript, Tailwind CSS, React Router, DaisyUI) Tj ET
+BT /F1 9.5 Tf 0.30 0.36 0.46 rg 1 0 0 1 52 356 Tm (Single-page book discovery and reading list management web app with Context API state & wishlist.) Tj ET
+BT /F1 9 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 343 Tm (Repo: github.com/AI-SajidX/Book-Vibe   |   Live: book-vibe-sajid.netlify.app) Tj ET
+BT /F2 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 321 Tm (03. English Janala  |  HTML, Tailwind CSS, JavaScript, DaisyUI, REST API) Tj ET
+BT /F1 9.5 Tf 0.30 0.36 0.46 rg 1 0 0 1 52 307 Tm (Interactive English vocabulary learning platform featuring flashcards, lessons, search, and pronunciation.) Tj ET
+BT /F1 9 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 294 Tm (Repo: github.com/AI-SajidX/English-Janala   |   Live: english-janala-by-sajid.netlify.app) Tj ET
+BT /F2 10 Tf 0.12 0.16 0.25 rg 1 0 0 1 52 272 Tm (04. Fitness  |  HTML5, CSS3, Font Awesome, Google Fonts) Tj ET
+BT /F1 9.5 Tf 0.30 0.36 0.46 rg 1 0 0 1 52 258 Tm (Modern dark-themed responsive fitness website with clean UI hierarchy across desktop, tablet, and mobile.) Tj ET
+BT /F1 9 Tf 0.20 0.39 1.00 rg 1 0 0 1 52 245 Tm (Repo: github.com/AI-SajidX/Fitness   |   Live: fitness-by-sajid.netlify.app) Tj ET
+0.85 0.88 0.94 RG 0.75 w 52 220 m 543 220 l S
+BT /F1 8.5 Tf 0.45 0.50 0.58 rg 1 0 0 1 52 204 Tm (Ahmed Ibrahim Sajid \(SajidX\)  -  Portfolio Resume) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000004470 00000 n 
+0000004540 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4615
+%%EOF
